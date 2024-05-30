@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.video{
+    
+    
+    
+    height: 28vw;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.video1{
+   
+    width: 40%;
+    height: 28vw;
+    margin-right: 2vw;
+    margin-top: 4vw;
+    border-radius: 10%;
+}
+.video2{
+    
+    width: 40%;
+    height: 28vw;
+    margin-left: 2vw;
+    margin-top: 4vw;
+    border-radius: 10%;
+    
+}
